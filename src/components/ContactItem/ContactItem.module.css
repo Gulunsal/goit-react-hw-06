@@ -1,0 +1,16 @@
+.contactContainer {
+  border: 1px solid black;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 300px;
+  min-width: 300px;
+  padding: 0 5px;
+  margin: 10px;
+}
+
+.contactName,
+.contactNumber {
+  margin: 0;
+}
